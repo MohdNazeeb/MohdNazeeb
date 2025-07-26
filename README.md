@@ -31,10 +31,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdnazeeb&show_icons=true&locale=en" alt="mohdnazeeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnazeeb&" alt="mohdnazeeb" /></p> 
-<p align="center">
-  <img src="https://i.imgflip.com/8iqaih.gif" alt="Funny GIF" width=200"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnazeeb&" alt="mohdnazeeb" />
+    </td>
+    <td>
+      <img align="center" src="https://i.imgflip.com/8iqaih.gif" alt="Funny GIF" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
 
