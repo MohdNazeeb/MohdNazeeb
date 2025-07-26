@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnazeeb&" alt="mohdnazeeb" /></p>
 
-"https://i.imgflip.com/8iqaih.gif"
+![Funny GIF](https://i.imgflip.com/8iqaih.gif)
