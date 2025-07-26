@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnazeeb&" alt="mohdnazeeb" /></p> 
 <p align="center">
-  <img src="https://i.imgflip.com/8iqaih.gif" alt="Funny GIF" width="400"/>
+  <img src="https://i.imgflip.com/8iqaih.gif" alt="Funny GIF" width=200"/>
 </p>
 
 
