@@ -37,7 +37,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnazeeb&" alt="mohdnazeeb" />
     </td>
     <td>
-      <img align="center" src="https://i.imgflip.com/8iqaih.gif" alt="Funny GIF" width="200" height="150"/>
+      <img align="center" src="https://i.imgflip.com/8iqaih.gif" alt="Funny GIF" width="200" />
     </td>
   </tr>
 </table>
