@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Flask, DSA, Generative AI, or LeetCode strategies!**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/mohd-nazeeb-mansoori)**
+- 📫 You can reach me via **[LinkedIn](https://www.linkedin.com/in/mohd-nazeeb-mansoori)**
 
 - ⚡ Fun fact **I once stayed up all night building a Python project just because I got excited by a bug.**
 
