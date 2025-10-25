@@ -20,12 +20,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohdNazeeb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <!-- Tech Stack -->
 ### 🛠️ Languages & Tools
 
@@ -68,9 +62,12 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/mohhdnazeeb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohd-nazeeb-mansoori/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/mohdnazeeb" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:warsinazeeb@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" /></a>
+  <a href="https://www.linkedin.com/in/mohd-nazeeb-mansoori"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" /></a>
+  <a href="https://leetcode.com/MohdNazeeb/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="36" /></a>
+  <a href="https://codeforces.com/profile/MohdNazeeb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="36" /></a>
+  <a href="https://www.codechef.com/users/MohdNazeeb"><img src="https://img.icons8.com/color/48/codechef.png" width="36" /></a>
+  <a href="https://github.com/MohdNazeeb"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="36" /></a>
 </p>
 
 ---
@@ -83,4 +80,4 @@
 ---
 
 <!-- Quote -->
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *An algorithm is what programmers use when they don’t want to explain their code.*
