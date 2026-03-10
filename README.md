@@ -11,10 +11,10 @@
 <!-- About Me -->
 ### 🧠 About Me
 
-- 🌱 Currently diving deep into **Generative AI**, **LLMs**, **Agentic AI**, and **System Design**.
-- 🤝 Open to collaborating on **AI/ML**, **Python development**, and **LLM fine-tuning** projects.
+- 🌱 Currently diving deep into **Generative AI**, **LLMs**, **Java Full Stack Development**, and **System Design**.
+- 🤝 Open to collaborating on **AI/ML**, **Java Development**, and **LLM fine-tuning** projects.
 - 🧪 Exploring advanced LLM techniques like **SFT**, **RLHF**, and **RAG pipelines**.
-- 💬 Ask me about **Python, Flask, DSA, Generative AI**, or **LeetCode strategies**.
+- 💬 Ask me about **Python, Java ,DSA ,Spring  ,Generative AI**, or **LeetCode strategies**.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in)
 - ⚡ Fun fact: *I once stayed up all night debugging a Python project just because the bug was too interesting to let go!*
 
