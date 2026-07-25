@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mohd Nazeeb Mansoori</h1>
-<h3 align="center">🚀 Aspiring Software Developer | LLM Enthusiast | Backend Explorer from India 🇮🇳</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Java Developer | Backend Explorer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohdnazeeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohdnazeeb" />
@@ -11,12 +11,11 @@
 <!-- About Me -->
 ### 🧠 About Me
 
-- 🌱 Currently diving deep into **Generative AI**, **LLMs**, **Java Full Stack Development**, and **System Design**.
-- 🤝 Open to collaborating on **AI/ML**, **Java Development**, and **LLM fine-tuning** projects.
-- 🧪 Exploring advanced LLM techniques like **SFT**, **RLHF**, and **RAG pipelines**.
-- 💬 Ask me about **Python, Java ,DSA ,Spring  ,Generative AI**, or **LeetCode strategies**.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in)
-- ⚡ Fun fact: *I once stayed up all night debugging a Python project just because the bug was too interesting to let go!*
+- 🌱 Currently diving deep into **Backend SystemsI**, **Spring Boot**, **Java Full Stack Development**, and **System Design**.
+- 🤝 Open to collaborating on **Java Development**, **REST Services**, and **Scalable Backend Systems** projects.
+- 💬 Ask me about **Java ,DSA ,Spring  ,REST APIs**, or **LeetCode strategies**.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohd-nazeeb-mansoori)
+- ⚡ Fun fact: *I once stayed up all night debugging a Java project just because the bug was too interesting to let go!*
 
 ---
 
